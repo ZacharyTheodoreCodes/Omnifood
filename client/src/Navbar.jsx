@@ -1,6 +1,6 @@
 import logo from "./img/omnifood-logo.png";
 import "./general.css";
-import "./style.css";
+import "./navbar-styling.css";
 
 export default function Navbar() {
   return (

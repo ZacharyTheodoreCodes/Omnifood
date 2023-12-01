@@ -35,14 +35,15 @@
   color: #cf711f;
 }
 
-.right-navbar-link.cta:link,
-.right-navbar-link.cta:visited {
+.cta:link,
+.cta:visited {
   padding: 1.2rem 2.4rem;
   border-radius: 9px;
   color: #fff;
   background-color: #e67e22;
 }
 
-.right-navbar-link.cta:hover .right-navbar-link.cta:active {
+.cta:hover,
+.cta:active {
   background-color: #cf711f;
 }
