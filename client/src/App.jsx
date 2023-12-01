@@ -1,4 +1,5 @@
 //import "./App.css";
+import Featured from "./Featured";
 import Hero from "./Hero";
 import Navbar from "./Navbar";
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <Navbar></Navbar>
       <Hero></Hero>
+      <Featured></Featured>
     </>
   );
 }

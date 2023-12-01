@@ -1,4 +1,4 @@
-import "./hero-styling.css";
+import "./styling/hero-styling.css";
 import "./general.css";
 import customer1 from "./img/customers/customer-1.jpg";
 import customer2 from "./img/customers/customer-2.jpg";
